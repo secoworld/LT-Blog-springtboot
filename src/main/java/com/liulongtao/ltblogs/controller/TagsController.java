@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2022-01-22 11:49:53
  */
 @RestController
-@RequestMapping("/ltblogs/tags")
+@RequestMapping("/tags")
 public class TagsController {
 
 }
